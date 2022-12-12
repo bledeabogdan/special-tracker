@@ -13,7 +13,7 @@
     "ant-design-vue": "^1.4.12",
     "axios": "^0.19.2",
     "core-js": "^3.6.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "moment": "^2.24.0",
     "vue": "^2.6.11",
     "vue-jwt-decode": "^0.1.0",
